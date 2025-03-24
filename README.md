@@ -2,7 +2,7 @@
 Flutter Train App
 </h1>
 <p align="center">
-<img width="800" alt="Flutter Train App" src="https://user-images.githubusercontent.com/github-username/flutter_train_app/assets/sample.png"/>
+<img width="800" alt="Flutter Train App" src="https://github.com/hbkong/flutter_train_app/raw/main/assets/home_light.png"/>
 </p>
 
 ## 프로젝트 개요
@@ -27,7 +27,7 @@ Flutter Train App
 | :------: |
 
 ### 프로젝트 일정
-2023/12/20 ~ 2024/01/10
+2025/3/24 ~ 2025/3/24
 
 ## 기술 스택
 | 분류 | 기술 |
@@ -53,7 +53,7 @@ Flutter Train App
 
 | 홈 화면 (라이트) | 홈 화면 (다크) | 역 선택 화면 | 좌석 선택 화면 |
 | --- | --- | --- | --- |
-| ![홈 화면(라이트)]() | ![홈 화면(다크)]() | ![역 선택 화면]() | ![좌석 선택 화면]() |
+| ![홈 화면(라이트)](https://github.com/hbkong/flutter_train_app/raw/main/assets/home_light.png) | ![홈 화면(다크)](https://github.com/hbkong/flutter_train_app/raw/main/assets/home_dark.png) | ![역 선택 화면](https://github.com/hbkong/flutter_train_app/raw/main/assets/station_list.png) | ![좌석 선택 화면](https://github.com/hbkong/flutter_train_app/raw/main/assets/seat_page.png) |
 
 <br/>
 
@@ -176,9 +176,3 @@ flutter run
 ## 라이센스
 
 이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
-
-<br/>
-
-## 연락처
-
-개발 관련 문의: [이메일 주소]
