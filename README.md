@@ -2,8 +2,7 @@
 Flutter Train App
 </h1>
 <p align="center">
-<img width="800" alt="Flutter Train App" src="https://github.com/hbkong/flutter_train_app/raw/main/assets/home_light.png"/>
-</p>
+
 
 ## 프로젝트 개요
 ### "Flutter Train App"은 기차 승객을 위한 간편한 좌석 예매 애플리케이션입니다.
@@ -23,7 +22,7 @@ Flutter Train App
 
 ## 개발자 정보
 
-| **현백옹** |
+| **현배콩** |
 | :------: |
 
 ### 프로젝트 일정
@@ -41,6 +40,16 @@ Flutter Train App
 
 <br/>
 
+## 앱 스크린샷
+
+| 라이트 모드 홈 화면 | 다크 모드 홈 화면 |
+| --- | --- |
+| <img src="assets/home_light.png" width="300"> | <img src="assets/home_dark.png" width="300"> |
+| **역 선택 화면** | **좌석 선택 화면** |
+| <img src="assets/station_list.png" width="300"> | <img src="assets/seat_page.png" width="300"> |
+
+<br/>
+
 ## 주요 기능
 
 | 홈 화면 | 역 선택 화면 | 좌석 선택 화면 |
@@ -49,13 +58,7 @@ Flutter Train App
 
 <br/>
 
-## 앱 화면
 
-| 홈 화면 (라이트) | 홈 화면 (다크) | 역 선택 화면 | 좌석 선택 화면 |
-| --- | --- | --- | --- |
-| ![홈 화면(라이트)](https://github.com/hbkong/flutter_train_app/raw/main/assets/home_light.png) | ![홈 화면(다크)](https://github.com/hbkong/flutter_train_app/raw/main/assets/home_dark.png) | ![역 선택 화면](https://github.com/hbkong/flutter_train_app/raw/main/assets/station_list.png) | ![좌석 선택 화면](https://github.com/hbkong/flutter_train_app/raw/main/assets/seat_page.png) |
-
-<br/>
 
 ## 코드 구조
 ```
