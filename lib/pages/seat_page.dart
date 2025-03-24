@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:provider/provider.dart';
-import '../main.dart';
 
 class SeatPage extends StatefulWidget {
   final String departureStation;
